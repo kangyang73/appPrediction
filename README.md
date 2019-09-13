@@ -1,2 +1,5 @@
-# appPrediction
-App Usage Application Prediction
+## Mobile Application Usage Prediction
+
+This is a partial implemetation of the code for paper ***.
+
+******
