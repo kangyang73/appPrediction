@@ -1,0 +1,1 @@
+python ./main.py --env AppPrediction-v4 --step_max 2314 --total_step 184840 --actions_file ../data/app/apps.npy --knn 10
